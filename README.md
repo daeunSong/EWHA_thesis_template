@@ -11,36 +11,39 @@
 - :warning: 휴먼명조 폰트는 프로젝트에 직접 업로드 해야함 - **무단배포X**
 
 ## 미리보기
-<table><tr><td>
-    <img src="output/ewha_thesis_template_page_01.png" alt="page 1" />
-</td></tr></table>
-<table><tr><td>
-    <img src="output/ewha_thesis_template_page_02.png" alt="page 2" />
-</td></tr></table>
-<table><tr><td>
-    <img src="output/ewha_thesis_template_page_03.png" alt="page 3" />
-</td></tr></table>
-<table><tr><td>
-    <img src="output/ewha_thesis_template_page_04.png" alt="page 4" />
-</td></tr></table>
-<table><tr><td>
-    <img src="output/ewha_thesis_template_page_07.png" alt="page 7" />
-</td></tr></table>
-<table><tr><td>
-    <img src="output/ewha_thesis_template_page_08.png" alt="page 8" />
-</td></tr></table>
-<table><tr><td>
-    <img src="output/ewha_thesis_template_page_12.png" alt="page 12" />
-</td></tr></table>
-<table><tr><td>
-    <img src="output/ewha_thesis_template_page_16.png" alt="page 16" />
-</td></tr></table>
-<table><tr><td>
-    <img src="output/ewha_thesis_template_page_17.png" alt="page 17" />
-</td></tr></table>
-<table><tr><td>
-    <img src="output/ewha_thesis_template_page_18.png" alt="page 18" />
-</td></tr></table>
+<table><tr>
+    <td>
+        <img src="output/ewha_thesis_template_page_01.png" alt="page 1" />
+    </td>
+    <td>
+        <img src="output/ewha_thesis_template_page_02.png" alt="page 2" />
+    </td>
+    <td>
+        <img src="output/ewha_thesis_template_page_03.png" alt="page 3" />
+    </td>
+</tr></table>
+<table><tr>
+    <td>
+        <img src="output/ewha_thesis_template_page_04.png" alt="page 4" />
+    </td>
+    <td>
+        <img src="output/ewha_thesis_template_page_07.png" alt="page 7" />
+    </td>
+    <td>
+        <img src="output/ewha_thesis_template_page_08.png" alt="page 8" />
+    </td>
+</tr></table>
+<table><tr>
+    <td>
+        <img src="output/ewha_thesis_template_page_12.png" alt="page 12" />
+    </td>
+    <td>
+        <img src="output/ewha_thesis_template_page_16.png" alt="page 16" />
+    </td>
+    <td>
+        <img src="output/ewha_thesis_template_page_17.png" alt="page 17" />
+    </td>
+</tr></table>
 
 ## 참고
 - [notion README](https://daeunsong.notion.site/Ewha-Dissertation-Template-974f1e37bc094f968083fa19a5e2bd2d?pvs=4)
